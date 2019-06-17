@@ -1,0 +1,178 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/guiyanbing/Downloads/EasyBehavior-master/app/src/main/AndroidManifest.xml:2:1-28:12
+INJECTED from /Users/guiyanbing/Downloads/EasyBehavior-master/app/src/main/AndroidManifest.xml:2:1-28:12
+INJECTED from /Users/guiyanbing/Downloads/EasyBehavior-master/app/src/main/AndroidManifest.xml:2:1-28:12
+INJECTED from /Users/guiyanbing/Downloads/EasyBehavior-master/app/src/main/AndroidManifest.xml:2:1-28:12
+MERGED from [com.jaeger.statusbarutil:library:1.4.0] /Users/guiyanbing/.gradle/caches/transforms-1/files-1.1/library-1.4.0.aar/9061a4d59f95528a34d7aac4dd30d0cb/AndroidManifest.xml:2:1-13:12
+MERGED from [com.android.support:design:25.3.1] /Users/guiyanbing/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/402aff6d85afd8e54969c440361ddbfb/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/guiyanbing/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/6ddce3ee779b9bf222361cdd6a8c18f8/AndroidManifest.xml:17:1-31:12
+MERGED from [:tabLayoutLibrary] /Users/guiyanbing/Downloads/EasyBehavior-master/tabLayoutLibrary/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-14:12
+MERGED from [com.android.support:transition:25.3.1] /Users/guiyanbing/.gradle/caches/transforms-1/files-1.1/transition-25.3.1.aar/72554575292bdffe71475ced824790ab/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:25.3.1] /Users/guiyanbing/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/48cbcd8b168098a2fc65332d948b6c02/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /Users/guiyanbing/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.3.1.aar/3c245e0aec06c8897dd055126dbfa679/AndroidManifest.xml:17:1-26:12
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/guiyanbing/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/1b44c651ade29a453d2b23d02a02f1a5/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/guiyanbing/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/b8a0a2440351473fa492fc46b7a68030/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/guiyanbing/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/8b2d6554cd6c7e3ddb48d01a9f11eb17/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/guiyanbing/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/f35c6f8aad0a73c69aec86125c0e3209/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/guiyanbing/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/8fa3d011e250d0d5e3a9be7e1331abce/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/guiyanbing/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/2d6862e95822954c3b778eab16934dc1/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-compat:25.3.1] /Users/guiyanbing/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/d4021847a3303dbd81a18cda0b0d41f8/AndroidManifest.xml:17:1-31:12
+INJECTED from /Users/guiyanbing/Downloads/EasyBehavior-master/app/src/main/AndroidManifest.xml:2:1-28:12
+INJECTED from /Users/guiyanbing/Downloads/EasyBehavior-master/app/src/main/AndroidManifest.xml:2:1-28:12
+INJECTED from /Users/guiyanbing/Downloads/EasyBehavior-master/app/src/main/AndroidManifest.xml:2:1-28:12
+	package
+		ADDED from /Users/guiyanbing/Downloads/EasyBehavior-master/app/src/main/AndroidManifest.xml:4:5-37
+		INJECTED from /Users/guiyanbing/Downloads/EasyBehavior-master/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/guiyanbing/Downloads/EasyBehavior-master/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/guiyanbing/Downloads/EasyBehavior-master/app/src/main/AndroidManifest.xml
+		ADDED from /Users/guiyanbing/Downloads/EasyBehavior-master/app/src/main/AndroidManifest.xml:2:1-28:12
+		INJECTED from /Users/guiyanbing/Downloads/EasyBehavior-master/app/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/guiyanbing/Downloads/EasyBehavior-master/app/src/main/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /Users/guiyanbing/Downloads/EasyBehavior-master/app/src/main/AndroidManifest.xml
+		ADDED from /Users/guiyanbing/Downloads/EasyBehavior-master/app/src/main/AndroidManifest.xml:2:1-28:12
+		INJECTED from /Users/guiyanbing/Downloads/EasyBehavior-master/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/guiyanbing/Downloads/EasyBehavior-master/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /Users/guiyanbing/Downloads/EasyBehavior-master/app/src/main/AndroidManifest.xml:7:5-26:19
+MERGED from [com.jaeger.statusbarutil:library:1.4.0] /Users/guiyanbing/.gradle/caches/transforms-1/files-1.1/library-1.4.0.aar/9061a4d59f95528a34d7aac4dd30d0cb/AndroidManifest.xml:11:5-20
+MERGED from [com.jaeger.statusbarutil:library:1.4.0] /Users/guiyanbing/.gradle/caches/transforms-1/files-1.1/library-1.4.0.aar/9061a4d59f95528a34d7aac4dd30d0cb/AndroidManifest.xml:11:5-20
+MERGED from [com.android.support:design:25.3.1] /Users/guiyanbing/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/402aff6d85afd8e54969c440361ddbfb/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:design:25.3.1] /Users/guiyanbing/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/402aff6d85afd8e54969c440361ddbfb/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/guiyanbing/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/6ddce3ee779b9bf222361cdd6a8c18f8/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/guiyanbing/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/6ddce3ee779b9bf222361cdd6a8c18f8/AndroidManifest.xml:29:5-20
+MERGED from [:tabLayoutLibrary] /Users/guiyanbing/Downloads/EasyBehavior-master/tabLayoutLibrary/build/intermediates/manifests/full/debug/AndroidManifest.xml:9:5-12:19
+MERGED from [:tabLayoutLibrary] /Users/guiyanbing/Downloads/EasyBehavior-master/tabLayoutLibrary/build/intermediates/manifests/full/debug/AndroidManifest.xml:9:5-12:19
+MERGED from [com.android.support:transition:25.3.1] /Users/guiyanbing/.gradle/caches/transforms-1/files-1.1/transition-25.3.1.aar/72554575292bdffe71475ced824790ab/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:25.3.1] /Users/guiyanbing/.gradle/caches/transforms-1/files-1.1/transition-25.3.1.aar/72554575292bdffe71475ced824790ab/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-v4:25.3.1] /Users/guiyanbing/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/48cbcd8b168098a2fc65332d948b6c02/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] /Users/guiyanbing/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/48cbcd8b168098a2fc65332d948b6c02/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/guiyanbing/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/1b44c651ade29a453d2b23d02a02f1a5/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/guiyanbing/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/1b44c651ade29a453d2b23d02a02f1a5/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/guiyanbing/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/b8a0a2440351473fa492fc46b7a68030/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/guiyanbing/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/b8a0a2440351473fa492fc46b7a68030/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/guiyanbing/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/8b2d6554cd6c7e3ddb48d01a9f11eb17/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/guiyanbing/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/8b2d6554cd6c7e3ddb48d01a9f11eb17/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/guiyanbing/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/f35c6f8aad0a73c69aec86125c0e3209/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/guiyanbing/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/f35c6f8aad0a73c69aec86125c0e3209/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/guiyanbing/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/8fa3d011e250d0d5e3a9be7e1331abce/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/guiyanbing/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/8fa3d011e250d0d5e3a9be7e1331abce/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/guiyanbing/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/2d6862e95822954c3b778eab16934dc1/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/guiyanbing/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/2d6862e95822954c3b778eab16934dc1/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-compat:25.3.1] /Users/guiyanbing/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/d4021847a3303dbd81a18cda0b0d41f8/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] /Users/guiyanbing/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/d4021847a3303dbd81a18cda0b0d41f8/AndroidManifest.xml:29:5-20
+	android:supportsRtl
+		ADDED from /Users/guiyanbing/Downloads/EasyBehavior-master/app/src/main/AndroidManifest.xml:12:9-35
+	android:label
+		ADDED from /Users/guiyanbing/Downloads/EasyBehavior-master/app/src/main/AndroidManifest.xml:10:9-41
+	android:roundIcon
+		ADDED from /Users/guiyanbing/Downloads/EasyBehavior-master/app/src/main/AndroidManifest.xml:11:9-54
+	android:icon
+		ADDED from /Users/guiyanbing/Downloads/EasyBehavior-master/app/src/main/AndroidManifest.xml:9:9-43
+	android:allowBackup
+		ADDED from /Users/guiyanbing/Downloads/EasyBehavior-master/app/src/main/AndroidManifest.xml:8:9-35
+		REJECTED from [:tabLayoutLibrary] /Users/guiyanbing/Downloads/EasyBehavior-master/tabLayoutLibrary/build/intermediates/manifests/full/debug/AndroidManifest.xml:10:9-36
+	android:theme
+		ADDED from /Users/guiyanbing/Downloads/EasyBehavior-master/app/src/main/AndroidManifest.xml:13:9-40
+	tools:replace
+		ADDED from /Users/guiyanbing/Downloads/EasyBehavior-master/app/src/main/AndroidManifest.xml:14:9-44
+activity#me.stefan.easybehavior.StartActivity
+ADDED from /Users/guiyanbing/Downloads/EasyBehavior-master/app/src/main/AndroidManifest.xml:15:9-21:20
+	android:name
+		ADDED from /Users/guiyanbing/Downloads/EasyBehavior-master/app/src/main/AndroidManifest.xml:15:19-48
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/guiyanbing/Downloads/EasyBehavior-master/app/src/main/AndroidManifest.xml:16:13-20:29
+action#android.intent.action.MAIN
+ADDED from /Users/guiyanbing/Downloads/EasyBehavior-master/app/src/main/AndroidManifest.xml:17:17-69
+	android:name
+		ADDED from /Users/guiyanbing/Downloads/EasyBehavior-master/app/src/main/AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/guiyanbing/Downloads/EasyBehavior-master/app/src/main/AndroidManifest.xml:19:17-77
+	android:name
+		ADDED from /Users/guiyanbing/Downloads/EasyBehavior-master/app/src/main/AndroidManifest.xml:19:27-74
+activity#me.stefan.easybehavior.Demo1Activity
+ADDED from /Users/guiyanbing/Downloads/EasyBehavior-master/app/src/main/AndroidManifest.xml:22:9-24:60
+	android:theme
+		ADDED from /Users/guiyanbing/Downloads/EasyBehavior-master/app/src/main/AndroidManifest.xml:24:13-48
+	android:name
+		ADDED from /Users/guiyanbing/Downloads/EasyBehavior-master/app/src/main/AndroidManifest.xml:23:13-42
+activity#me.stefan.easybehavior.Demo2Activity
+ADDED from /Users/guiyanbing/Downloads/EasyBehavior-master/app/src/main/AndroidManifest.xml:25:9-60
+	android:name
+		ADDED from /Users/guiyanbing/Downloads/EasyBehavior-master/app/src/main/AndroidManifest.xml:25:19-48
+uses-sdk
+INJECTED from /Users/guiyanbing/Downloads/EasyBehavior-master/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/guiyanbing/Downloads/EasyBehavior-master/app/src/main/AndroidManifest.xml
+INJECTED from /Users/guiyanbing/Downloads/EasyBehavior-master/app/src/main/AndroidManifest.xml
+MERGED from [com.jaeger.statusbarutil:library:1.4.0] /Users/guiyanbing/.gradle/caches/transforms-1/files-1.1/library-1.4.0.aar/9061a4d59f95528a34d7aac4dd30d0cb/AndroidManifest.xml:7:5-9:41
+MERGED from [com.jaeger.statusbarutil:library:1.4.0] /Users/guiyanbing/.gradle/caches/transforms-1/files-1.1/library-1.4.0.aar/9061a4d59f95528a34d7aac4dd30d0cb/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:design:25.3.1] /Users/guiyanbing/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/402aff6d85afd8e54969c440361ddbfb/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:design:25.3.1] /Users/guiyanbing/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/402aff6d85afd8e54969c440361ddbfb/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/guiyanbing/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/6ddce3ee779b9bf222361cdd6a8c18f8/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/guiyanbing/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/6ddce3ee779b9bf222361cdd6a8c18f8/AndroidManifest.xml:21:5-23:78
+MERGED from [:tabLayoutLibrary] /Users/guiyanbing/Downloads/EasyBehavior-master/tabLayoutLibrary/build/intermediates/manifests/full/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:tabLayoutLibrary] /Users/guiyanbing/Downloads/EasyBehavior-master/tabLayoutLibrary/build/intermediates/manifests/full/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:transition:25.3.1] /Users/guiyanbing/.gradle/caches/transforms-1/files-1.1/transition-25.3.1.aar/72554575292bdffe71475ced824790ab/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:25.3.1] /Users/guiyanbing/.gradle/caches/transforms-1/files-1.1/transition-25.3.1.aar/72554575292bdffe71475ced824790ab/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:25.3.1] /Users/guiyanbing/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/48cbcd8b168098a2fc65332d948b6c02/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:25.3.1] /Users/guiyanbing/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/48cbcd8b168098a2fc65332d948b6c02/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /Users/guiyanbing/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.3.1.aar/3c245e0aec06c8897dd055126dbfa679/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /Users/guiyanbing/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.3.1.aar/3c245e0aec06c8897dd055126dbfa679/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/guiyanbing/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/1b44c651ade29a453d2b23d02a02f1a5/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/guiyanbing/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/1b44c651ade29a453d2b23d02a02f1a5/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/guiyanbing/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/b8a0a2440351473fa492fc46b7a68030/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/guiyanbing/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/b8a0a2440351473fa492fc46b7a68030/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/guiyanbing/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/8b2d6554cd6c7e3ddb48d01a9f11eb17/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/guiyanbing/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/8b2d6554cd6c7e3ddb48d01a9f11eb17/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/guiyanbing/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/f35c6f8aad0a73c69aec86125c0e3209/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/guiyanbing/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/f35c6f8aad0a73c69aec86125c0e3209/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/guiyanbing/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/8fa3d011e250d0d5e3a9be7e1331abce/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/guiyanbing/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/8fa3d011e250d0d5e3a9be7e1331abce/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/guiyanbing/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/2d6862e95822954c3b778eab16934dc1/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/guiyanbing/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/2d6862e95822954c3b778eab16934dc1/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-compat:25.3.1] /Users/guiyanbing/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/d4021847a3303dbd81a18cda0b0d41f8/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.3.1] /Users/guiyanbing/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/d4021847a3303dbd81a18cda0b0d41f8/AndroidManifest.xml:21:5-23:58
+INJECTED from /Users/guiyanbing/Downloads/EasyBehavior-master/app/src/main/AndroidManifest.xml
+INJECTED from /Users/guiyanbing/Downloads/EasyBehavior-master/app/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.3.1] /Users/guiyanbing/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/402aff6d85afd8e54969c440361ddbfb/AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from /Users/guiyanbing/Downloads/EasyBehavior-master/app/src/main/AndroidManifest.xml
+		ADDED from /Users/guiyanbing/Downloads/EasyBehavior-master/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/guiyanbing/Downloads/EasyBehavior-master/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/guiyanbing/Downloads/EasyBehavior-master/app/src/main/AndroidManifest.xml
+		ADDED from /Users/guiyanbing/Downloads/EasyBehavior-master/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/guiyanbing/Downloads/EasyBehavior-master/app/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:25.3.1] /Users/guiyanbing/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/402aff6d85afd8e54969c440361ddbfb/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/guiyanbing/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/6ddce3ee779b9bf222361cdd6a8c18f8/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/guiyanbing/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/6ddce3ee779b9bf222361cdd6a8c18f8/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:transition:25.3.1] /Users/guiyanbing/.gradle/caches/transforms-1/files-1.1/transition-25.3.1.aar/72554575292bdffe71475ced824790ab/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:transition:25.3.1] /Users/guiyanbing/.gradle/caches/transforms-1/files-1.1/transition-25.3.1.aar/72554575292bdffe71475ced824790ab/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.1] /Users/guiyanbing/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/48cbcd8b168098a2fc65332d948b6c02/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] /Users/guiyanbing/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/48cbcd8b168098a2fc65332d948b6c02/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /Users/guiyanbing/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.3.1.aar/3c245e0aec06c8897dd055126dbfa679/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /Users/guiyanbing/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.3.1.aar/3c245e0aec06c8897dd055126dbfa679/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/guiyanbing/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/1b44c651ade29a453d2b23d02a02f1a5/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/guiyanbing/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/1b44c651ade29a453d2b23d02a02f1a5/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/guiyanbing/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/b8a0a2440351473fa492fc46b7a68030/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/guiyanbing/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/b8a0a2440351473fa492fc46b7a68030/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/guiyanbing/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/8b2d6554cd6c7e3ddb48d01a9f11eb17/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/guiyanbing/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/8b2d6554cd6c7e3ddb48d01a9f11eb17/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/guiyanbing/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/f35c6f8aad0a73c69aec86125c0e3209/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/guiyanbing/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/f35c6f8aad0a73c69aec86125c0e3209/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/guiyanbing/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/8fa3d011e250d0d5e3a9be7e1331abce/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/guiyanbing/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/8fa3d011e250d0d5e3a9be7e1331abce/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/guiyanbing/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/2d6862e95822954c3b778eab16934dc1/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/guiyanbing/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/2d6862e95822954c3b778eab16934dc1/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-compat:25.3.1] /Users/guiyanbing/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/d4021847a3303dbd81a18cda0b0d41f8/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] /Users/guiyanbing/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/d4021847a3303dbd81a18cda0b0d41f8/AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:design:25.3.1] /Users/guiyanbing/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/402aff6d85afd8e54969c440361ddbfb/AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:design:25.3.1] /Users/guiyanbing/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/402aff6d85afd8e54969c440361ddbfb/AndroidManifest.xml:26:9-47

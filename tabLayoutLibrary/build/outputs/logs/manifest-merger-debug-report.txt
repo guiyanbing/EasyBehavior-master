@@ -1,0 +1,31 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/guiyanbing/Downloads/EasyBehavior-master/tabLayoutLibrary/src/main/AndroidManifest.xml:1:1-11:12
+INJECTED from /Users/guiyanbing/Downloads/EasyBehavior-master/tabLayoutLibrary/src/main/AndroidManifest.xml:1:1-11:12
+INJECTED from /Users/guiyanbing/Downloads/EasyBehavior-master/tabLayoutLibrary/src/main/AndroidManifest.xml:1:1-11:12
+	package
+		ADDED from /Users/guiyanbing/Downloads/EasyBehavior-master/tabLayoutLibrary/src/main/AndroidManifest.xml:2:5-34
+		INJECTED from /Users/guiyanbing/Downloads/EasyBehavior-master/tabLayoutLibrary/src/main/AndroidManifest.xml
+		INJECTED from /Users/guiyanbing/Downloads/EasyBehavior-master/tabLayoutLibrary/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/guiyanbing/Downloads/EasyBehavior-master/tabLayoutLibrary/src/main/AndroidManifest.xml:3:5-63
+application
+ADDED from /Users/guiyanbing/Downloads/EasyBehavior-master/tabLayoutLibrary/src/main/AndroidManifest.xml:5:5-9:19
+	android:supportsRtl
+		ADDED from /Users/guiyanbing/Downloads/EasyBehavior-master/tabLayoutLibrary/src/main/AndroidManifest.xml:7:9-35
+	android:allowBackup
+		ADDED from /Users/guiyanbing/Downloads/EasyBehavior-master/tabLayoutLibrary/src/main/AndroidManifest.xml:6:9-36
+uses-sdk
+INJECTED from /Users/guiyanbing/Downloads/EasyBehavior-master/tabLayoutLibrary/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/guiyanbing/Downloads/EasyBehavior-master/tabLayoutLibrary/src/main/AndroidManifest.xml
+INJECTED from /Users/guiyanbing/Downloads/EasyBehavior-master/tabLayoutLibrary/src/main/AndroidManifest.xml
+INJECTED from /Users/guiyanbing/Downloads/EasyBehavior-master/tabLayoutLibrary/src/main/AndroidManifest.xml
+INJECTED from /Users/guiyanbing/Downloads/EasyBehavior-master/tabLayoutLibrary/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/guiyanbing/Downloads/EasyBehavior-master/tabLayoutLibrary/src/main/AndroidManifest.xml
+		ADDED from /Users/guiyanbing/Downloads/EasyBehavior-master/tabLayoutLibrary/src/main/AndroidManifest.xml
+		INJECTED from /Users/guiyanbing/Downloads/EasyBehavior-master/tabLayoutLibrary/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/guiyanbing/Downloads/EasyBehavior-master/tabLayoutLibrary/src/main/AndroidManifest.xml
+		ADDED from /Users/guiyanbing/Downloads/EasyBehavior-master/tabLayoutLibrary/src/main/AndroidManifest.xml
+		INJECTED from /Users/guiyanbing/Downloads/EasyBehavior-master/tabLayoutLibrary/src/main/AndroidManifest.xml
